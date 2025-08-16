@@ -1,3 +1,4 @@
+import aiogram
 import logging
 import asyncio
 import time

@@ -25,3 +25,5 @@ SUBSCRIPTION_PRICES = {
     "7days": {"stars": 80, "usd": 2.0, "name_ru": "7 дней"},
     "1month": {"stars": 350, "usd": 6.0, "name_ru": "1 месяц"}
 }
+
+
